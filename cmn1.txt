@@ -225,11 +225,9 @@ startSubroutine: s32'cmn_SkillInit'
     addMove: s32'RomanCancelHit'
         moveType: 28
         characterState: (NONE)
-        Unknown1394: s32'CmnActRomanCancel'
+        Unknown1394: s32'_NEUTRAL'
+        Unknown1395: 65
         moveInput: 214
-        Unknown1510: 30
-        Unknown1511: 160
-        Unknown1514: 1
         endMoveRegister: 
     addMove: s32'FaultlessDefenceStand'
         moveType: 26
